@@ -1,0 +1,33 @@
+.fl {text-align: center;
+	 width: 700px;
+	 margin: 0px 400px;
+     background: #94DD6D;
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+     border-radius: 5px;
+     padding-bottom: 20px}
+
+.fl a {color: white}
+
+.fl p {color: purple}
+
+.Athos {background: blue;
+        height: 65px;
+        border-radius: 5px;
+        border: 2px solid white}
+
+.Porthos {background: green;
+          height: 65px;
+          border-radius: 5px;
+          border: 2px solid white}
+
+.Aramis {background: yellow;
+         height: 65px;
+         border-radius: 5px;
+         border: 2px solid white}
+
+.DArtagnan {background: red;
+            height: 65px;
+            border-radius: 5px;
+            border: 2px solid white}

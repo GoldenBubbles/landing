@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Jacques+Francois&family");
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/final-links.css");
+
+@import url("components/banners.css");
+
+body {font-family: 'Roboto', sans-serif;
+      font-size: 20px}
+
+h1, h2, h3, h4, h5, h6 {font-family: 'Jacques Francois', serif;
+                        font-weight: bold;
+                        text-align: center}
+
+h2 {text-decoration: underline;
+    background-color: rgba(10, 50, 255, 0.2)}
+
+a {text-decoration: none}
+
+#mid {text-align: center}
+
+#official-center {text-align: center}
+
+.bottom {background-color: #6DDDD7}
